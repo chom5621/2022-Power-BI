@@ -1,6 +1,6 @@
 # 2022-Power-BI
 
-#### Visualization Project
+KOCW - 코드 없이 따라하는 빅데이터 분석 수강
 
 * 파워쿼리 데이터 전처리
 
